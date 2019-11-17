@@ -1,6 +1,8 @@
 ## 概述
 
 本文的目的是让Asus X450JB 笔记本电脑尽量完美的使用上 MacOS
+![image](https://github.com/xiaoMGitHub/ASUS_X450JB_Hackintosh_Clover/blob/master/Screenshot/10.15.x.png)
+![image](https://github.com/xiaoMGitHub/ASUS_X450JB_Hackintosh_Clover/blob/master/Screenshot/20191117-193821.png)
 
 ## 你需要什么
 - Asus X450JB 系列笔记本
@@ -43,7 +45,7 @@
 | ---------------------------------------------------------- | ---------------------------------------------------- |
 | ![image](https://github.com/xiaoMGitHub/Lenovo_Y7000-Y530_Hackintosh/blob/master/screenshot/%E5%BE%AE%E4%BF%A1160.jpg) | ![image](https://github.com/xiaoMGitHub/Lenovo_Y7000-Y530_Hackintosh/blob/master/screenshot/%E6%94%AF%E4%BB%98%E5%AE%9D160.jpg) |
 
-## 华硕 X450JB 安装 macOS Mojave
+## 华硕 X450JB 安装 macOS
 - 10.14.X 成果:http://bbs.pcbeta.com/viewthread-1798826-1-1.html
 - 10.13.X 成果:http://bbs.pcbeta.com/viewthread-1760612-1-1.html
 - 10.12.x 成果:http://bbs.pcbeta.com/viewthread-1739722-1-1.html
